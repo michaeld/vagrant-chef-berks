@@ -22,6 +22,6 @@ Finally, to reduce typing in the future, add Omnibus Ruby to your path:
 * Next...
 
 ```
-$ cd vagrant-chef-demo
+$ cd vagrant-chef-berks
 $ vagrant up
 ```
