@@ -16,8 +16,8 @@ Finally, to reduce typing in the future, add Omnibus Ruby to your path:
 
 * Either 'git clone' or 'download zip and expand' this repository onto your workstation
 
-* `gem install berkshelf`
-* `vagrant plugin install vagrant-berkshelf`
+* `gem install berkshelf` [See Berkshelf](http://berkshelf.com/)
+* `vagrant plugin install vagrant-berkshelf` [See Berkshelf](http://berkshelf.com/)
 
 * Next...
 
